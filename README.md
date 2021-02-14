@@ -26,3 +26,8 @@
 - I am not convinced this is the correct kind of graph to use
 - The `size` series is particularly difficult to see
 - I have added comments throughout the code with thoughts. I would not typically do this in a production codebase
+
+## Project URLs
+
+- https://beeks-tech-test-v4.stackblitz.io
+- https://stackblitz.com/edit/beeks-tech-test-v4?file=README.md
